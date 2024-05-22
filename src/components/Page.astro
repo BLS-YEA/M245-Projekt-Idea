@@ -1,0 +1,11 @@
+---
+interface Props {
+    color: string;
+}
+
+const { color }: Props = Astro.props;
+---
+
+<div class={"w-full h-screen pt-8 " + color} >
+<slot/>
+</div>

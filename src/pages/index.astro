@@ -2,21 +2,22 @@
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import Title from '../components/Title.astro';
+import Page from '../components/Page.astro';
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
 		<Title />
-		<h1>Welcome to <span class="text-gradient">Astro</span></h1>
+		<Page color='bg-green-500'>
+			<h1>Test</h1>
+			<p>This is a test</p>
+		</Page>
 	</main>
 </Layout>
 
 <style>
 	main {
-		margin: auto;
-		padding: 1rem;
-		width: 800px;
-		max-width: calc(100% - 2rem);
+		max-width: 100%;
 		color: white;
 		font-size: 20px;
 		line-height: 1.6;
