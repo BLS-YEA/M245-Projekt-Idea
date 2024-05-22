@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Title from '../components/Title.astro';
 import Page from '../components/Page.astro';
 import Card from '../components/Card.astro';
+import PersonCard from '../components/PersonCard.astro';
 ---
 
 <Layout title="Welcome to Astro.">
@@ -16,9 +17,17 @@ import Card from '../components/Card.astro';
 				<Card title='Wireless Charging' img='/public/charging.jpg'/>
 			</div>	
 		</Page>
-		<Page gradient='from-blue-900 to-fuchsia-900' color='bg-fuchsia-900'>
+		<Page gradient='from-blue-900 to-cyan-800' color='bg-cyan-800'>
 			<h1>Test</h1>
 			<p>This is a test</p>
+		</Page>
+		<Page gradient='from-cyan-800 to-indigo-900' color='bg-indigo-900'>
+			<h1>AYE-Team</h1>
+			<div class="flex justify-center items-center gap-20">
+				<PersonCard name="Ael" image='/public/Ael.jpeg'  role='Developer' />
+				<PersonCard name="Yannick"  image='/public/Yannick.jpeg'  role='Motivation' />
+				<PersonCard name="Evan"  image='/public/Evan.jpeg' role='Developer'/>
+			</div>
 		</Page>
 		<div class="h-24 w-full bg-gradient-to-b from-fuchsia-900 to-[#13151a]"/>
 	</main>
