@@ -1,16 +1,20 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Card from '../components/Card.astro';
 import Title from '../components/Title.astro';
 import Page from '../components/Page.astro';
+import Card from '../components/Card.astro';
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
 		<Title />
-		<Page gradient='from-[#13151a] to-blue-900' color='bg-blue-900'>
-			<h1>Test</h1>
-			<p>This is a test</p>
+		<Page gradient='from-[#13151a] to-blue-900 flex flex-row justify-center items-center' color='bg-blue-900'>
+			<h1>Main Add-Ons</h1>
+			<div class="flex flex-row gap-8 items-center justify-center">
+				<Card title='Cloud Storage' img='/public/cloud.png'/>
+				<Card title='E-Sim' img='/public/sim.png'/>
+				<Card title='Wireless Charging' img='/public/charging.jpg'/>
+			</div>	
 		</Page>
 		<Page gradient='from-blue-900 to-fuchsia-900' color='bg-fuchsia-900'>
 			<h1>Test</h1>
