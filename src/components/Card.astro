@@ -11,7 +11,7 @@ const { title, img }: Props = Astro.props;
 		<p class='text-3xl p-5' >
 			{title}
         </p>
-		{img && <img class="h-20 w-20 p-2" src={img}/>}
+		{img && <img class="h-20 w-20 p-2" src={img} alt={title}/>}
 </li>
 <style>
 	.link-card {
