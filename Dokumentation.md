@@ -5,6 +5,27 @@ Als Idee haben wir uns überlegt, eine Website für ein neues Handy zu erstellen
 
 
 ## Wettbewerbsanalyse
+### Konkurrenz
+Die Konkurrenz besteht aus anderen Handyherstellern, welche auch modulare Handys herstellen. Dazu gehören zum Beispiel Phonebloks, Shiftphone und Fairphone. Diese Hersteller bieten ebenfalls modulare Handys an, welche der Kunde nach seinen Wünschen zusammenstellen kann.
+
+### Stärken
+- Die Stärken der Konkurrenz sind, dass sie bereits Erfahrung mit modularen Handys haben und wissen, wie sie diese herstellen müssen.
+- Die Konkurrenz hat bereits eine grosse Anzahl an Kunden, welche ihre Handys kaufen.
+
+### Schwächen
+- Die Schwächen der Konkurrenz sind, dass sie nicht so bekannt sind wie die grossen Handyhersteller wie Apple und Samsung.
+- Die Konkurrenz hat nicht so viele Ressourcen wie die grossen Handyhersteller.
+
+### Chancen
+- Die Chancen der Konkurrenz sind, dass sie neue Kunden gewinnen können, welche modulare Handys kaufen möchten.
+- Die Konkurrenz kann neue Technologien entwickeln, welche die Kunden begeistern.
+
+### Risiken
+- Die Risiken der Konkurrenz sind, dass sie nicht genügend Kunden gewinnen können, um ihre Kosten zu decken.
+- Die Konkurrenz kann von den grossen Handyherstellern verdrängt werden, welche ebenfalls modulare Handys herstellen.
+
+### Fazit
+Die Konkurrenz hat Stärken, Schwächen, Chancen und Risiken. Es wird schwierig sein, sich gegen die Konkurrenz durchzusetzen, da sie bereits Erfahrung mit modularen Handys haben und viele Kunden haben. Es wird wichtig sein, neue Technologien zu entwickeln, welche die Kunden begeistern.
 
 ## Five Forces Modell
 - Bedrohung durch neue Konkurrenten: Die Bedrohung durch neue Konkurrenten ist hoch, da es viele Handyhersteller gibt, welche auch modulare Handys herstellen könnten.
