@@ -42,6 +42,13 @@ Die Konkurrenz hat Stärken, Schwächen, Chancen und Risiken. Es wird schwierig 
 
 Fazit: Die Bedrohung durch neue Konkurrenten, die Bedrohung durch Ersatzprodukte, die Verhandlungsmacht der Kunden, die Verhandlungsmacht der Lieferanten und die Intensität des Wettbewerbs sind alle hoch. Das bedeutet, dass es schwierig sein wird, sich gegen die Konkurrenz durchzusetzen.
 
+## Proof of Concept
+![Proof of Concept](./Proof_of_concept.png)
+
+![Strategyzer 1](./Strategyzer1.png)
+
+![Strategyzer 2](./Strategyzer2.png)
+
 ## Prototyp Umsetzung
 
 ## Reflexion
